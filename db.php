@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "pdo_transactions"; // must match your actual database name
+$dbname = "pdo_transactions";
 $username = "root";
 $password = "";
 
